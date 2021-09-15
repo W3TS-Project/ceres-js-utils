@@ -1,12 +1,11 @@
 {
-  "name": "package-js-example",
+  "name": "ceres-js-utils",
   "version": "1.0.0",
-  "description": "sample batch script",
+  "description": "additional useful functionality for WarCraft on JS/TS",
   "scripts": {
     "build": "ceres-tstl"
   },
   "dependencies": {
-    "ceres-js-utils": "git+https://github.com/W3TS-Project/ceres-js-utils.git",
     "war3-types": "^1.0.4"
   },
   "author": "WriteCoin",
@@ -17,6 +16,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/W3TS-Project/package-js-example.git"
+    "url": "git+https://github.com/W3TS-Project/ceres-ts-utils.git"
   }
 }
